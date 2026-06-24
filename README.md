@@ -76,7 +76,7 @@
 |
 * 2026 — refactor: leveling up, writing cleaner code every single day
 |
-* NOW  — 🔄 OPEN TO COLLABORATE — see README for details
+* NOW  — 🔄 OPEN TO COLLABORATE — scroll down to connect 👇
 ```
 
 ---
@@ -114,28 +114,56 @@
 
 ## 🛠️ Tech Arsenal
 
-```
-⚡ FRONTEND
-   React          ████████████████░░░░  80%  | ⚡ Primary Weapon
-   JavaScript     ███████████████░░░░░  75%  | 🧠 Core Language
-   HTML5          ██████████████████░░  90%  | 🏗️ Solid Foundation
-   CSS3           █████████████████░░░  85%  | 🎨 Making Things Pretty
-   Bootstrap      ████████████████░░░░  80%  | 🧩 Speed Tool
+<div align="center">
 
-🔧 LANGUAGES
-   Python         ████████████░░░░░░░░  60%  | 🐍 AI/ML Work
-   Java           ██████████░░░░░░░░░░  50%  | ☕ DSA Practice
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-🗄️ TOOLS & INFRA
-   Git            █████████████████░░░  85%  | 🔀 Daily Driver
-   GitHub         █████████████████░░░  85%  | 🐙 Home Base
-   VS Code        ████████████████████ 100%  | 🏠 My Second Home
-   Jupyter        ████████████░░░░░░░░  60%  | 📓 ML Notebook
+</div>
 
-🧠 CONCEPTS
-   DSA            ████████████░░░░░░░░  60%  | 📈 Grinding Daily
-   AI/ML Basics   ██████████░░░░░░░░░░  50%  | 🤖 Growing Fast
-```
+<br/>
+
+**⚡ Frontend**
+
+| Skill | Progress | Level |
+|:--|:--|:--:|
+| React | ![](https://progress-bar.dev/80/?scale=100&width=180&color=61dafb) | 80% &nbsp;⚡ Primary Weapon |
+| JavaScript | ![](https://progress-bar.dev/75/?scale=100&width=180&color=f7df1e) | 75% &nbsp;🧠 Core Language |
+| HTML5 | ![](https://progress-bar.dev/90/?scale=100&width=180&color=e34f26) | 90% &nbsp;🏗️ Solid Foundation |
+| CSS3 | ![](https://progress-bar.dev/85/?scale=100&width=180&color=1572b6) | 85% &nbsp;🎨 Making Things Pretty |
+| Bootstrap | ![](https://progress-bar.dev/80/?scale=100&width=180&color=7952b3) | 80% &nbsp;🧩 Speed Tool |
+
+**🔧 Languages**
+
+| Skill | Progress | Level |
+|:--|:--|:--:|
+| Python | ![](https://progress-bar.dev/60/?scale=100&width=180&color=3776ab) | 60% &nbsp;🐍 AI/ML Work |
+| Java | ![](https://progress-bar.dev/50/?scale=100&width=180&color=ed8b00) | 50% &nbsp;☕ DSA Practice |
+
+**🗄️ Tools & Infra**
+
+| Skill | Progress | Level |
+|:--|:--|:--:|
+| Git | ![](https://progress-bar.dev/85/?scale=100&width=180&color=f05032) | 85% &nbsp;🔀 Daily Driver |
+| GitHub | ![](https://progress-bar.dev/85/?scale=100&width=180&color=6e5494) | 85% &nbsp;🐙 Home Base |
+| VS Code | ![](https://progress-bar.dev/100/?scale=100&width=180&color=007acc) | 100% &nbsp;🏠 My Second Home |
+| Jupyter | ![](https://progress-bar.dev/60/?scale=100&width=180&color=f37626) | 60% &nbsp;📓 ML Notebook |
+
+**🧠 Concepts**
+
+| Skill | Progress | Level |
+|:--|:--|:--:|
+| DSA | ![](https://progress-bar.dev/60/?scale=100&width=180&color=ff6f61) | 60% &nbsp;📈 Grinding Daily |
+| AI/ML Basics | ![](https://progress-bar.dev/50/?scale=100&width=180&color=00c9a7) | 50% &nbsp;🤖 Growing Fast |
 
 ---
 
@@ -283,7 +311,6 @@ print(base64.b64decode(secret).decode('utf-8'))
 *Made with 💙 and way too much ☕ by Aditya Raj — June 2026*
 
 </div>
-
 
 
 
