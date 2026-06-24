@@ -134,36 +134,36 @@
 
 **⚡ Frontend**
 
-| Skill | Progress | Level |
-|:--|:--|:--:|
-| React | ![](https://progress-bar.dev/80/?scale=100&width=180&color=61dafb) | 80% &nbsp;⚡ Primary Weapon |
-| JavaScript | ![](https://progress-bar.dev/75/?scale=100&width=180&color=f7df1e) | 75% &nbsp;🧠 Core Language |
-| HTML5 | ![](https://progress-bar.dev/90/?scale=100&width=180&color=e34f26) | 90% &nbsp;🏗️ Solid Foundation |
-| CSS3 | ![](https://progress-bar.dev/85/?scale=100&width=180&color=1572b6) | 85% &nbsp;🎨 Making Things Pretty |
-| Bootstrap | ![](https://progress-bar.dev/80/?scale=100&width=180&color=7952b3) | 80% &nbsp;🧩 Speed Tool |
+| Skill | Level | Role |
+|:--|:--:|:--|
+| React | ![](https://img.shields.io/badge/80%25-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e) | ⚡ Primary Weapon |
+| JavaScript | ![](https://img.shields.io/badge/75%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e) | 🧠 Core Language |
+| HTML5 | ![](https://img.shields.io/badge/90%25-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a2e) | 🏗️ Solid Foundation |
+| CSS3 | ![](https://img.shields.io/badge/85%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e) | 🎨 Making Things Pretty |
+| Bootstrap | ![](https://img.shields.io/badge/80%25-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1a2e) | 🧩 Speed Tool |
 
 **🔧 Languages**
 
-| Skill | Progress | Level |
-|:--|:--|:--:|
-| Python | ![](https://progress-bar.dev/60/?scale=100&width=180&color=3776ab) | 60% &nbsp;🐍 AI/ML Work |
-| Java | ![](https://progress-bar.dev/50/?scale=100&width=180&color=ed8b00) | 50% &nbsp;☕ DSA Practice |
+| Skill | Level | Role |
+|:--|:--:|:--|
+| Python | ![](https://img.shields.io/badge/60%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e) | 🐍 AI/ML Work |
+| Java | ![](https://img.shields.io/badge/50%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1a2e) | ☕ DSA Practice |
 
 **🗄️ Tools & Infra**
 
-| Skill | Progress | Level |
-|:--|:--|:--:|
-| Git | ![](https://progress-bar.dev/85/?scale=100&width=180&color=f05032) | 85% &nbsp;🔀 Daily Driver |
-| GitHub | ![](https://progress-bar.dev/85/?scale=100&width=180&color=6e5494) | 85% &nbsp;🐙 Home Base |
-| VS Code | ![](https://progress-bar.dev/100/?scale=100&width=180&color=007acc) | 100% &nbsp;🏠 My Second Home |
-| Jupyter | ![](https://progress-bar.dev/60/?scale=100&width=180&color=f37626) | 60% &nbsp;📓 ML Notebook |
+| Skill | Level | Role |
+|:--|:--:|:--|
+| Git | ![](https://img.shields.io/badge/85%25-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e) | 🔀 Daily Driver |
+| GitHub | ![](https://img.shields.io/badge/85%25-6e5494?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e) | 🐙 Home Base |
+| VS Code | ![](https://img.shields.io/badge/100%25-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e) | 🏠 My Second Home |
+| Jupyter | ![](https://img.shields.io/badge/60%25-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a2e) | 📓 ML Notebook |
 
 **🧠 Concepts**
 
-| Skill | Progress | Level |
-|:--|:--|:--:|
-| DSA | ![](https://progress-bar.dev/60/?scale=100&width=180&color=ff6f61) | 60% &nbsp;📈 Grinding Daily |
-| AI/ML Basics | ![](https://progress-bar.dev/50/?scale=100&width=180&color=00c9a7) | 50% &nbsp;🤖 Growing Fast |
+| Skill | Level | Role |
+|:--|:--:|:--|
+| DSA | ![](https://img.shields.io/badge/60%25-FF6F61?style=flat-square&labelColor=1a1a2e) | 📈 Grinding Daily |
+| AI/ML Basics | ![](https://img.shields.io/badge/50%25-00C9A7?style=flat-square&labelColor=1a1a2e) | 🤖 Growing Fast |
 
 ---
 
