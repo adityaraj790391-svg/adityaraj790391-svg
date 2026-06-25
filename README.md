@@ -121,7 +121,12 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -142,12 +147,27 @@
 | CSS3 | ![](https://img.shields.io/badge/85%25-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a2e) | 🎨 Making Things Pretty |
 | Bootstrap | ![](https://img.shields.io/badge/80%25-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1a2e) | 🧩 Speed Tool |
 
+**🚀 Backend**
+
+| Skill | Level | Role |
+|:--|:--:|:--|
+| Node.js | ![](https://img.shields.io/badge/65%25-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e) | 🚂 Backend Engine |
+| Express.js | ![](https://img.shields.io/badge/60%25-404040?style=flat-square&logo=express&logoColor=white&labelColor=1a1a2e) | 🛤️ API Routes |
+| MongoDB | ![](https://img.shields.io/badge/55%25-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a2e) | 🍃 NoSQL Storage |
+
 **🔧 Languages**
 
 | Skill | Level | Role |
 |:--|:--:|:--|
 | Python | ![](https://img.shields.io/badge/60%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e) | 🐍 AI/ML Work |
 | Java | ![](https://img.shields.io/badge/50%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1a2e) | ☕ DSA Practice |
+
+**📊 Data & ML Libraries**
+
+| Skill | Level | Role |
+|:--|:--:|:--|
+| NumPy | ![](https://img.shields.io/badge/55%25-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e) | 🔢 Array Computing |
+| Pandas | ![](https://img.shields.io/badge/55%25-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e) | 🐼 Data Wrangling |
 
 **🗄️ Tools & Infra**
 
@@ -311,6 +331,7 @@ print(base64.b64decode(secret).decode('utf-8'))
 *Made with 💙 and way too much ☕ by Aditya Raj — June 2026*
 
 </div>
+
 
 
 
