@@ -233,7 +233,7 @@ while (alive) {
 ## 🗺️ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj790391-svg&custom_title=Aditya's%20Contribution%20Map&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj790391-svg&custom_title=Aditya's%27Contribution%27Map&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
